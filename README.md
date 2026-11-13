@@ -34,6 +34,6 @@ While you can still return it, check charging, battery life, the touchscreen, sh
 
 1. **Test the basics on an original 2DS.** Write a short parent checklist for stock apps and cartridge play.
 2. **Pilot Junkdraw on an original 2DS.** Verify offline drawing, animation, and saving and reopening work. Try an optional HOME Menu theme on supported consoles.
-3. **Pilot setup with parents.** Start with the checklist. If parents keep getting stuck, prototype a WiiReady-inspired AI walkthrough that points to the live guide and pauses on unexpected screens. The adult handles all file and firmware changes. Publish v1 after families can repeat setup and open games and saved creations offline. [WiiReady](https://github.com/jcb79107/wiiready)
+3. **Pilot setup with parents.** Try the [guided setup walkthrough](WALKTHROUGH.md) and the manual checklist. Publish v1 after families can repeat setup and open games and saved creations offline.
 
 Level 1-1 is an independent project. Nintendo, Nintendo 2DS, and Mii are Nintendo marks.

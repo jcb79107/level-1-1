@@ -2,6 +2,8 @@
 
 Add one app to the original wedge-shaped Nintendo 2DS. [Junkdraw](https://github.com/randomouscrap98/3ds_junkdraw/tree/0.5.2) is an MIT-licensed stylus drawing app with page-based animation. This is a pilot setup pending a hands-on test on the original 2DS.
 
+Want a chat to guide you one step at a time? Use the [guided setup walkthrough](WALKTHROUGH.md).
+
 ## Set up Homebrew Launcher
 
 1. Charge the console. On a computer with internet access and an SD card reader, copy the full SD card to a backup folder before changing files. Keep the recovery backups the firmware guide creates.
