@@ -21,4 +21,4 @@ Use this checklist with the original wedge-shaped Nintendo 2DS. You’ll need th
 - [ ] Power the 2DS off and back on. With wireless still off, launch the game, resume the save, and reopen the photo, recording, and Mii. If a pick requires a connection, leave it out of the offline lineup.
 - [ ] Give your kid one thing to try. “Can you give your Mii a voice?” is enough to get started.
 
-That’s the stock setup. If you later want to add drawing or animation homebrew, follow the live guide for your model and system version. [3DS Hacks Guide](https://3ds.hacks.guide/)
+Want to draw and animate with the stylus? Try the [optional homebrew setup](HOMEBREW.md).
