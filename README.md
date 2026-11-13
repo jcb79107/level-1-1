@@ -24,6 +24,8 @@ While you can still return it, check charging, battery life, the touchscreen, sh
 
 ## Set it up
 
+[Start with the stock 2DS checklist](QUICKSTART.md) and try the handoff with Wi-Fi off.
+
 1. **Start with what’s built in.** Use Nintendo 3DS Camera for photos and short videos, Nintendo 3DS Sound for recording, and Mii Maker for characters. Pick a few compatible DS or 3DS games you own or lawfully acquired. Use personal backups only where permitted. Level 1-1 will link to authorized homebrew releases and exclude commercial game downloads, BIOS files, title keys, and piracy sources. [Nintendo 2DS manual](https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/manual-nintendo-2ds-operations-english)
 2. **Add homebrew if you want it.** Have a charged 2DS, a reliable SD card, and a computer with an SD reader and internet access. Back up the SD card and anything you want to keep. Check the model, region, system version, and whether custom firmware is already installed. Follow the current guide, keep its recovery backups, and stop if the console shows something unexpected. [3DS Hacks Guide](https://3ds.hacks.guide/)
 3. **Try it the way your kid will use it.** Turn Wi-Fi off, review parental controls and browser access, and launch each pick. Save and reopen a creation. Keep setup tools out of the way and decide together how photos and recordings get shared.
