@@ -30,6 +30,18 @@ While you can still return it, check charging, battery life, the touchscreen, sh
 2. **Add homebrew if you want it.** Follow the [optional drawing and animation setup](HOMEBREW.md) to try Junkdraw.
 3. **Try it the way your kid will use it.** Turn Wi-Fi off, review parental controls and browser access, and launch each pick. Save and reopen a creation. Keep setup tools out of the way and decide together how photos and recordings get shared.
 
+## Start a guided setup
+
+Copy this prompt into an AI chat with web access. Download and attach [WALKTHROUGH.md](WALKTHROUGH.md) and [HOMEBREW.md](HOMEBREW.md) so the chat can read the guides from this private repo.
+
+```text
+Help me set up my original Nintendo 2DS for offline drawing and animation.
+Follow the attached WALKTHROUGH.md and use HOMEBREW.md for Junkdraw.
+Start by asking if I have the 2DS in hand. Use the live 3DS Hacks Guide
+for firmware steps, give me one action at a time, and wait for me to
+confirm what I see. I’ll handle the console and SD card.
+```
+
 ## What’s planned
 
 1. **Test the basics on an original 2DS.** Write a short parent checklist for stock apps and cartridge play.
