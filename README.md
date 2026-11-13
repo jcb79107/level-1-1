@@ -32,14 +32,38 @@ While you can still return it, check charging, battery life, the touchscreen, sh
 
 ## Start a guided setup
 
-Copy this prompt into an AI chat with web access. Download and attach [WALKTHROUGH.md](WALKTHROUGH.md) and [HOMEBREW.md](HOMEBREW.md) so the chat can read the guides from this private repo.
+Copy this prompt into an AI chat with web access.
 
 ```text
-Help me set up my original Nintendo 2DS for offline drawing and animation.
-Follow the attached WALKTHROUGH.md and use HOMEBREW.md for Junkdraw.
-Start by asking if I have the 2DS in hand. Use the live 3DS Hacks Guide
-for firmware steps, give me one action at a time, and wait for me to
-confirm what I see. I’ll handle the console and SD card.
+Guide me through setting up Junkdraw on an original wedge-shaped Nintendo 2DS.
+Ask if I have the console in hand. If it hasn’t arrived, give me a short gear
+checklist and stop there. If I have another model, pause and point me to the guide
+for that model. I’ll handle the console and all SD card changes.
+
+Ask for my full System Settings version (including region suffix), current screen,
+and existing custom firmware state. If that state is unclear, use
+https://3ds.hacks.guide/checking-for-cfw.html before picking a route.
+Confirm the console is charged and I’ve backed up the full SD card before any
+file or firmware changes. Keep recovery backups on my computer.
+
+Use https://3ds.hacks.guide/ for firmware steps through Homebrew Launcher. Match
+the live guide to my model, version, region, and firmware state. Give one action
+at a time with the guide link, what I should see, and a question to confirm it.
+Wait for my reply. If you can’t read the guide, ask me to open it and paste the
+relevant step. If a screen differs or errors, pause and use
+https://3ds.hacks.guide/troubleshooting.html.
+
+Once Homebrew Launcher opens, have me download 3ds_junkdraw.3dsx from
+https://github.com/randomouscrap98/3ds_junkdraw/releases/tag/0.5.2 on my computer.
+With the 2DS powered off, copy it to /3ds/3ds_junkdraw.3dsx on the SD card.
+Safely eject and reinsert the card, turn the console on, set Wireless
+Communication to Off in HOME Menu Settings, and launch Junkdraw.
+
+Guide me through drawing a ball with the stylus, using R + Up to make three
+pages with the ball at different heights, and opening the Start menu to preview
+the animation loop. Have me save as Ball test, close the app, reboot, confirm
+wireless is still off, then reopen the save and play the loop. Report which
+checks I confirmed and where to resume if I stop.
 ```
 
 ## What’s planned
