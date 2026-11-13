@@ -27,3 +27,11 @@ Use Junkdraw 0.5.2 and a new test project. After copying the app to the SD card,
 Pass when all four boxes are checked. If one fails, note the step, your Junkdraw and Luma3DS versions, and what appeared on screen.
 
 To remove the app, power off the console and delete only `/3ds/3ds_junkdraw.3dsx` from the SD card. Back up any drawings before removing their save data.
+
+## Optional: Pick a HOME Menu theme
+
+After Junkdraw passes, preview two themes and let your kid pick. “Mario or Yoshi?” is plenty. A bright stock color works too.
+
+1. **Use a theme you already have.** Open **HOME Menu Settings → Change Theme** and pick it. [Nintendo’s theme instructions](https://en-americas-support.nintendo.com/app/answers/detail/a_id/12420/p/172)
+2. **Or use a custom theme.** If Anemone3DS is available from your [homebrew setup](https://3ds.hacks.guide/finalizing-setup.html), copy a compatible theme ZIP you’re allowed to use to `/themes/` on the SD card with the console powered off. Open Anemone3DS, preview the theme, and use its normal single-theme install. [Anemone3DS instructions](https://github.com/astronautlevel2/Anemone3DS/wiki/Usage)
+3. **Check it.** Restart with wireless off. Confirm the theme is still there and Junkdraw opens. To go back, choose a stock theme under **Change Theme**. If the theme menu or your chosen theme is unavailable, skip this step.

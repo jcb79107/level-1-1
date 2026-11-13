@@ -64,12 +64,23 @@ pages with the ball at different heights, and opening the Start menu to preview
 the animation loop. Have me save as Ball test, close the app, reboot, confirm
 wireless is still off, then reopen the save and play the loop. Report which
 checks I confirmed and where to resume if I stop.
+
+After I confirm the Junkdraw test passed, ask if we want a HOME Menu theme.
+Let my kid pick a favorite, like Mario, Yoshi, or Kirby, from two options I’ve
+previewed. If we already have a theme, use HOME Menu Settings → Change Theme.
+For a custom theme, use a compatible theme ZIP I’m allowed to use. With the 2DS
+off, place the ZIP in /themes/ on the SD card, then use Anemone3DS to preview and
+install it as a single theme. Follow the controls for my installed version and
+check https://github.com/astronautlevel2/Anemone3DS/wiki/Usage if needed.
+If themes are unavailable or we want to skip, finish the setup there.
+Restart with wireless off and confirm the theme sticks and Junkdraw still opens.
+To undo it, pick a stock theme in HOME Menu Settings → Change Theme.
 ```
 
 ## What’s planned
 
 1. **Test the basics on an original 2DS.** Write a short parent checklist for stock apps and cartridge play.
-2. **Pilot Junkdraw on an original 2DS.** Verify offline drawing, animation, and saving and reopening work. Try an optional HOME Menu theme on supported consoles.
+2. **Pilot Junkdraw on an original 2DS.** Verify offline drawing, animation, and saving and reopening work. Verify that the [optional theme](HOMEBREW.md#optional-pick-a-home-menu-theme) sticks after a restart.
 3. **Pilot setup with parents.** Try the [guided setup walkthrough](WALKTHROUGH.md) and the manual checklist. Publish v1 after families can repeat setup and open games and saved creations offline.
 
 Level 1-1 is an independent project. Nintendo, Nintendo 2DS, and Mii are Nintendo marks.
