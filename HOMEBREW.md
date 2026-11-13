@@ -13,10 +13,15 @@ Add one app to the original wedge-shaped Nintendo 2DS. [Junkdraw](https://github
 2. Turn the 2DS all the way off before taking out the SD card. Copy the file into the top-level `3ds` folder so the path is `/3ds/3ds_junkdraw.3dsx`. Create the folder if it’s missing. Safely eject the card and put it back in the console.
 3. Turn wireless off in **HOME Menu Settings → Wireless Communication**. Open **Homebrew Launcher** and choose **Junkdraw**. If it’s missing, check the file name and path on your computer. If it won’t run, stick with the [stock setup](QUICKSTART.md) and use the upstream project for app troubleshooting.
 
-## Make a bouncing ball
+## Quick test on an original 2DS
 
-- Draw a ball on the first page. Hold **R** and press **Up** to move forward a page, then draw the ball a little higher. Add a third page with the ball near the top.
-- Press **Start** to open the menu. Use the animation controls to preview the three pages as a loop. Use a small canvas for the first try.
-- Save the project through the app menu. Close Junkdraw, reboot with wireless still off, then reopen the saved drawing and play the loop again. If the project doesn’t reopen or play, leave the app out of the child’s setup until you’ve resolved it.
+Use Junkdraw 0.5.2 and a new test project. After copying the app to the SD card, keep **Wireless Communication** off for every check.
+
+- [ ] **Install and launch.** Junkdraw appears in Homebrew Launcher and opens to a drawing canvas.
+- [ ] **Draw.** Draw a ball with the stylus. Erase part of it and redraw it. The strokes and eraser respond where you touch.
+- [ ] **Animate.** On a small canvas, hold **R** and press **Up** to advance a page. Draw the ball higher, then repeat for a third page. Press **Start** and use the animation controls. All three frames play in order and loop.
+- [ ] **Save and reopen offline.** Save as `Ball test`, close the app, and power the 2DS off and back on. Confirm wireless is still off. Relaunch Junkdraw, load `Ball test`, and check that all three drawings are intact and the loop still plays.
+
+Pass when all four boxes are checked. If one fails, note the step, your Junkdraw and Luma3DS versions, and what appeared on screen.
 
 To remove the app, power off the console and delete only `/3ds/3ds_junkdraw.3dsx` from the SD card. Back up any drawings before removing their save data.
