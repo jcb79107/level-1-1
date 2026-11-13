@@ -10,7 +10,9 @@ Now it’s your kid calling you over. They beat a level, drew a monster, or reco
 
 *Less scrolling. More imagination.*
 
-Level 1-1 is an early-stage setup project for parents with the original wedge-shaped Nintendo 2DS. Pick a few games and creative tools your kid can use with Wi-Fi off. The curated picks will be screened for ads and in-app purchases.
+Want to give your kid an original Nintendo 2DS, but the setup feels like a project? [Copy one prompt into an AI chat](#start-a-guided-setup). The agent walks you through setup one step at a time and waits for you to confirm what’s on screen. You handle the buttons and the SD card.
+
+Once it’s set up, your kid can draw with the stylus, make a little cartoon, and play the games you picked with Wi-Fi off.
 
 ## Gear for a used 2DS
 
