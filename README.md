@@ -77,6 +77,18 @@ Restart with wireless off and confirm the theme sticks and Junkdraw still opens.
 To undo it, pick a stock theme in HOME Menu Settings → Change Theme.
 ```
 
+## Premade HOME Menu themes
+
+After Junkdraw passes, preview a few of these community-made themes on your computer and let your kid pick a favorite.
+
+- **Mario** · [Pixel Mario Theme](https://themeplaza.art/item/105131)
+- **Yoshi** · [Yoshi’s Island – Aboveground (Alt)](https://themeplaza.art/item/109580)
+- **Kirby** · [Kirby & Bandana Dee](https://themeplaza.art/item/112582)
+- **Pikachu** · [Cosplay Pikachu](https://themeplaza.art/item/134520)
+- **Animal Crossing** · [Animal Crossing Panorama](https://themeplaza.art/item/3220)
+
+Keep wireless off on the 2DS. Download the theme ZIP on your computer. With the console powered off, copy the ZIP as-is into `/themes/` at the root of the SD card. Safely eject and reinsert the card, then preview and install the theme in Anemone3DS. Restart offline and check that the theme sticks and Junkdraw still opens. If the theme is unavailable, try another or stick with a stock color. [Anemone3DS instructions](https://github.com/astronautlevel2/Anemone3DS/wiki/Usage)
+
 ## What’s planned
 
 1. **Test the basics on an original 2DS.** Write a short parent checklist for stock apps and cartridge play.
